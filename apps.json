@@ -15,16 +15,6 @@
       "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
       "tintColor": "95b5d6",
       "size": 89312385,
-      "screenshotURLs": [
-        "https://i.imgur.com/W2j590N.png",
-	"https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
-	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
-	"https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
-	"https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
-      ]
     },
     {
       "name": "Instagram++",
@@ -58,13 +48,6 @@
       "iconURL": "https://www.uniquepac.com/images/twitter_icon.png",
       "tintColor": "00adef",
       "size": 78910461,
-      "screenshotURLs": [
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
-      ]
     },
     { 
       "name": "YouTube++",
@@ -79,53 +62,6 @@
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
       "tintColor": "FF4500",
       "size": 91936890,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "This lets you upload videos you've already created."
-        },
-        {
-          "type": "contacts",
-          "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you include audio with your videos and search using your voice."
-        },
-        {
-          "type": "location",
-          "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-        }
-      ],
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/74/03/b8740367-2dcf-6a0c-d738-be91b34281ab/mzl.ksabbijd.png/1000x1000bb.png",
-	"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/0d/36/c20d36a4-c4f2-a27d-012d-fceeddea392b/mzl.wqtsgyvi.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/28/ed/c328ed06-2f1f-3380-1665-68c921553d4c/mzl.ehrowzdv.png/1000x1000bb.png",
-	"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/17/78c517e1-21a9-40a6-1163-0dd919136c54/mzl.loxwfgsa.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8f/8e/a28f8eaf-a227-3215-5c36-fa8976772c30/mzl.xeupxvot.png/1000x1000bb.png"      ]
-    },
-    {
-      "name": "VK++",
-      "bundleIdentifier": "com.vk.vkclient.vkm.refresh",
-      "developerName": "VK App",
-      "subtitle": "VK 5.31.2 | VK++ 0.32b | ColoredVK",
-      "version": "5.31.2",
-      "versionDate": "2020-03-25T14:00:00-07:00",
-      "versionDescription": "",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/18?dl=1",
-      "localizedDescription": "Клиент VK с новым твиком VK++ с огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы, возможностью изменять цвета и ставить фотографии в меню и диалогах и многим другим.\n\nP.S. Много функций может не работать, твик давно не обновляли.",
-      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/e2/c2/6de2c27c-4c36-0d0d-1845-56b7e58522b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
-      "tintColor": "1E90FF",
-      "size": 98968906,
-      "beta": true,
-      "screenshotURLs": [
-        "https://i.imgur.com/n0te9wW.jpg",
-        "https://i.imgur.com/PwDus1S.jpg",
-        "https://i.imgur.com/CiDk957.jpg",
-        "https://i.imgur.com/xZMwiLZ.jpg",
-        "https://i.imgur.com/tFRnZKW.jpg",
-        "https://i.imgur.com/HhrWRsG.jpg"
-      ]
     },
     {
       "name": "Mini Metro",
@@ -140,10 +76,6 @@
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/67/7c/cb677c82-d048-ed44-a13a-a5fdb22f1b08/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/1024x1024.jpg",
       "tintColor": "6592be",
       "size": 132379023,
-      "screenshotURLs": [
-        "https://images-na.ssl-images-amazon.com/images/I/71M2LPAJWSL.png",
-        "https://pbs.twimg.com/media/Dz8boYtWkAIggb-.jpg"
-      ]
     },
     { 
       "name": "Deezer++",
@@ -158,17 +90,6 @@
       "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/14/db/00/14db00c3-c794-0758-484b-5381de266aa8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
       "tintColor": "232323",
       "size": 101205629,
-      "screenshotURLs": [
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/49/6f/fa496f97-69ab-32b7-be59-fc6f17f19f4f/pr_source.jpg/1000x1000bb.jpg",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/10/ef/ef10efe8-bb53-8a9b-ddab-c0dca42dbf04/pr_source.jpg/1000x1000bb.jpg",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b6/ee/4c/b6ee4c8f-b281-0f46-2497-b6c1456e8c8c/pr_source.jpg/1000x1000bb.jpg",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/29/bd/7b29bd0e-ec6a-17d7-0011-c8d3cd9fd179/pr_source.jpg/1000x1000bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/45/51/c8455113-d610-e9ba-fae5-7857c13a1eb9/pr_source.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/71/78/2e7178c5-7cca-078f-01f4-96bbfa0977a5/pr_source.png/1000x1000bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/9e/2c/829e2c2b-3bf3-48e9-dec8-471380fd861c/pr_source.jpg/1000x1000bb.jpg",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/37/75/27/37752773-3283-6759-107c-1549e96e0dde/pr_source.png/1000x1000bb.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/24/8c/e7248cb2-58fb-e69d-4175-b38542e0e600/pr_source.jpg/1000x1000bb.jpg"
-      ]
     },
     {
        "name": "Channels",
@@ -183,12 +104,6 @@
        "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
        "tintColor": "0093E9",
        "size": 9090644,
-       "screenshotURLs": [
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
-      ]
     },
     { 
       "name": "Spotify++",
@@ -203,40 +118,6 @@
       "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
       "tintColor": "32CD32",
       "size": 30445568,
-      "permissions": [
-        {
-          "type": "camera",
-          "usageDescription": "This lets you scan Spotify Codes."
-        },
-        {
-          "type": "photos",
-          "usageDescription": "This lets you save and select images to and from your Photo Library."
-        },
-        {
-          "type": "motion",
-          "usageDescription": "Used to control your tempo for Spotify Running."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you control Spotify using your voice."
-        },
-        {
-          "type": "bluetooth",
-          "usageDescription": "This lets you use Spotify with external accessories."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you set access restrictions using Face ID."
-        }
-      ],
-      "screenshotURLs": [
-        "https://trashbox.ru/ifiles/1171554_099548_screenshot_05.png-orig/spotify-android-11.jpg",
-	"https://trashbox.ru/ifiles/1171549_cc26fc_screenshot_00.png-orig/spotify-android-6.jpg",
-	"https://trashbox.ru/ifiles/1171550_7512f4_screenshot_01.png-orig/spotify-android-7.jpg",
-	"https://trashbox.ru/ifiles/1171551_b8bb29_screenshot_02.png-orig/spotify-android-8.jpg",
-	"https://trashbox.ru/ifiles/1171552_c13b7c_screenshot_03.png-orig/spotify-android-9.jpg",
-	"https://trashbox.ru/ifiles/1171553_0d4646_screenshot_04.png-orig/spotify-android-10.jpg"
-      ]
     },
     { 
       "name": "InShot++",
@@ -252,13 +133,6 @@
       "tintColor": "CD5C5C",
       "size": 42371695,
       "beta": false,
-      "screenshotURLs": [
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/ff/ec/f3ffec27-f77a-73db-5f2b-f64f16941a72/mzl.filprell.jpg/1000x1000bb.jpg",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/cb/36/3dcb3624-da8e-6258-73ce-a6147822d264/mzl.mwjysupr.jpg/1000x1000bb.jpg",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/63/5b/c8/635bc8a2-4fe8-49aa-2c0a-ec706cee91c3/mzl.tekrwvmw.jpg/1000x1000bb.jpg",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/b4/ae/a9/b4aea9b7-1596-7d4c-605f-f46e714ae402/mzl.wekotwui.jpg/1000x1000bb.jpg",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/69/cd/00/69cd0058-af74-44d3-0a46-bc29cc1e9bc2/mzl.ghcnyayz.jpg/1000x1000bb.jpg"
-      ]
     },
     {
       "name": "Reddit++",
@@ -274,13 +148,6 @@
       "tintColor": "FF6347",
       "size": 55538241,
       "beta": false,
-      "screenshotURLs": [
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/97/19/fc/9719fc80-2337-f650-6f9f-938a43eb4578/pr_source.png/1000x1000bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/07/4e/bf/074ebf0b-12ff-bf09-ea47-4de5f8bd5cf7/pr_source.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/94/f0/21/94f02116-9495-22f3-d723-b1a6424e5587/pr_source.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/56/16/4d/56164d88-5e13-e4e2-e78c-4d026c8091f1/pr_source.png/1000x1000bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/0e/bc/dc0ebc27-5b27-0187-6e42-da4ee39336e9/pr_source.png/1000x1000bb.png"
-      ]
     },
     {
       "name": "Spotify++",
@@ -296,14 +163,6 @@
       "tintColor": "23d060",
       "size": 48930456,
       "beta": true,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/de/e0/4a/dee04ac9-26b3-7e4e-9827-c0fba18911f1/pr_source.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/a7/ac/ffa7aca0-a1ca-6e11-b989-babb7fa76aec/pr_source.png/1000x1000bb.png",
-	"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/09/ec/b4/09ecb452-446d-b6d3-f1a8-1d6e41d41813/pr_source.png/1000x1000bb.png",
-	"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/13/88/08/138808c9-0ba8-ba9a-cbc2-860cf9dbeece/pr_source.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/af/a3/a3/afa3a359-7417-d4df-0d5a-ab0eda164aa7/pr_source.png/1000x1000bb.png",
-	"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/38/75/c338754e-605b-d973-77fd-75df463af5fa/pr_source.png/1000x1000bb.png"
-      ]
     },
     { 
       "name": "OrNET++",
@@ -319,11 +178,6 @@
       "tintColor": "9370DB",
       "size": 48900623,
       "beta": false,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/81/4c/5d/814c5d25-32fc-23ae-6b62-459a1f701300/mzl.nbkmiyfl.png/1000x1000bb.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/74/cf/c874cf74-fe65-a2f2-d5a9-cedc8c467910/mzl.qfrgjcac.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/36/39/a7363932-72b0-c705-07d5-f62d5836bbab/mzl.rxjexcfj.png/1000x1000bb.png"
-      ]
     },
     {
       "name": "Twitch++",
@@ -339,14 +193,6 @@
       "tintColor": "4169E1",
       "size": 60864537,
       "beta": false,
-      "screenshotURLs": [
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/df/09/fbdf09bc-dc58-d2e9-089b-ac83b2d17961/pr_source.png/1000x1000bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/e9/28/9ee92814-5417-7f9d-3cae-4eaaf9dad6c2/pr_source.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/02/20/99/02209952-b991-b581-8b5a-d0014400d2b0/pr_source.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/37/8a/f8/378af812-08ff-626a-0e62-a8e5888be913/pr_source.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/28/fa/ef28fab9-b3b9-c536-3be1-4be65d4cb7fb/pr_source.png/1000x1000bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/e9/bc/d1e9bc3d-7e0e-3f7b-8c6a-4b6f8a656e07/pr_source.png/1000x1000bb.png"
-      ]
     },
     {
       "name": "Chimera",
