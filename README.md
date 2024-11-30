@@ -1,6 +1,1 @@
-# AltStoreRus
-
-https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json
-
-# ipa's
-
+This repo hasnt been updated in 5 years so im fixing it
